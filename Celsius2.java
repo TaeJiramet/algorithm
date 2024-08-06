@@ -1,4 +1,4 @@
-public class Celsius {
+public class Celsius2 {
     public static void main(String[] args) {
         double fahrenheit = 80; 
         double celsius = (5.0/9.0)*(fahrenheit-32);
@@ -6,3 +6,4 @@ public class Celsius {
         System.out.println("celsius="+ celsius);
     }
 }
+
